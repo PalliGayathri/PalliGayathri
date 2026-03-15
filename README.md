@@ -20,16 +20,27 @@
 ## 🧬 About Me
 
 ```python
-class GayathriPalli:
+class PalliGayathri:
     def __init__(self):
-        self.role        = "AI/ML Engineer & Autonomous Systems Developer"
+        self.name        = "Palli Gayathri"
+        self.role        = "AI/ML Engineer | Deep Learning & Autonomous Systems Developer"
         self.education   = "B.Tech in AI & ML @ Sreenidhi Institute of Science & Technology"
-        self.passion     = ["Deep Reinforcement Learning", "Autonomous Systems", "LLMs & RAG"]
-        self.currently   = ["Advanced LLM Fine-tuning", "MLOps & Production ML", "Scalable AI Systems"]
-        self.strengths   = "Turning research into real-world, deployable AI solutions"
+        self.experience  = "ML Intern @ Optern EduWorks"
+        self.passion     = [
+            "Deep Reinforcement Learning (DQN, PPO, Multi-Agent)",
+            "Autonomous & Self-Driving Systems",
+            "LLMs, RAG Pipelines & Document Intelligence",
+            "Real-Time Computer Vision"
+        ]
+        self.currently   = [
+            "Advanced LLM Fine-tuning & PEFT techniques",
+            "Production ML Systems & Scalable Architectures",
+            "MLOps, CI/CD for ML, and Model Monitoring"
+        ]
+        self.mission     = "Bridging the gap between cutting-edge AI research and real-world deployment"
 
     def greet(self):
-        return "Let's build something intelligent together! 🚀"
+        return "Let's build something intelligent that actually works in the real world! 🚀"
 ```
 
 ---
