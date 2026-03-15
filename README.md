@@ -87,7 +87,7 @@ RAG-powered enterprise Q&A systems with LLM integration, vector DBs, and semanti
 | 🚀 Project | 🛠 Tech Stack | 💥 Impact |
 |:-----------|:-------------|:---------|
 | **Multi-Env DQN Agent** | `PyTorch` `RL` `Highway-env` | Trained agents across 3 simultaneous environments with a shared encoder — pushing RL efficiency |
-| **Self-Driving Car (Zero-Shot RL)** | `PyTorch` `RL` `CARLA` | Agent learns to navigate racing circuits from scratch — pure reinforcement, zero human labels |
+| **Self-Driving Car (Zero-Shot RL)** | `PyTorch` `RL` `DQN` | Agent learns to navigate racing circuits from scratch — pure reinforcement, zero human labels |
 | **Traffic Monitoring System** | `YOLOv8` `OpenCV` `Real-time` | Vehicle detection, speed estimation & traffic flow analysis in live video streams |
 | **Document Intelligence Platform** | `LLMs` `RAG` `Vector DB` `Streamlit` | Enterprise-grade document Q&A with context-aware retrieval and semantic search |
 
