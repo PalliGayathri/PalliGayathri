@@ -37,7 +37,7 @@ class PalliGayathri:
             "Production ML Systems & Scalable Architectures",
             "MLOps, CI/CD for ML, and Model Monitoring"
         ]
-        self.mission     = "Bridging the gap between cutting-edge AI research and real-world deployment"
+        self.mission = "Bridging the gap between cutting-edge AI research and real-world deployment"
 
     def greet(self):
         return "Let's build something intelligent that actually works in the real world! 🚀"
